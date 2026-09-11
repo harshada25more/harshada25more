@@ -1,125 +1,70 @@
-# 👋 Hey, I'm Harshada More
+# 👋 Hi, I'm Harshada More
 
-### 💻 Computer Engineering Student | Full Stack Developer | Open Source Enthusiast
+### 💻 Computer Engineering Student | Full Stack Developer | Open Source Contributor
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=harshada25more&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+Passionate about **building practical applications, solving problems, and learning modern technologies**.
 
-I'm a Computer Engineering student passionate about building practical
-applications, improving my problem-solving skills, and exploring modern
-technologies.
-
-I enjoy turning ideas into real-world projects and continuously learning
-through coding, projects, hackathons, and Open Source.
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 Computer Engineering Student
-- 💻 Interested in Full Stack Development
-- 🧠 Practicing DSA in Java
-- 🌐 Building applications with React, Node.js and MongoDB
-- 🤖 Exploring AI/ML and modern developer technologies
-- 🌱 Learning through projects and Open Source
-- 🚀 Interested in building useful and scalable applications
-- 🎯 Preparing for software engineering opportunities
+* 🌐 Full Stack Development — React, Node.js, Express & MongoDB
+* 🧠 DSA & Problem Solving in Java
+* 🤖 Exploring AI/ML
+* 🔓 Open Source Contributor — GSSoC 2026
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+**Languages:**
+`Java` `JavaScript` `Python` `C`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,js" />
-</p>
+**Frontend:**
+`HTML` `CSS` `React` `Tailwind CSS` `Bootstrap` `Axios`
 
-### 🌐 Frontend Development
+**Backend & Database:**
+`Node.js` `Express.js` `MongoDB` `MySQL` `SQLite`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
-</p>
-
-### 🔧 Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
-</p>
+**Tools:**
+`Git` `GitHub` `VS Code` `Postman` `Docker`
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🇮🇳 CivicSync India
+
+**AI-powered citizen–government infrastructure platform**
+
+A civic-tech platform for **citizen issue reporting, AI-based prioritization, geospatial mapping, and infrastructure monitoring**.
+
+`React` `JavaScript` `Tailwind CSS` `AI` `GIS`
+
+🔗 [Repository](https://github.com/harshada25more/CivicSync-India)
+
 ### 📦 ProductIQ
 
 **AI-Powered Product Intelligence for Industrial Commerce**
 
-ProductIQ is a product intelligence platform designed to make industrial
-product information easier to understand, explore, and manage.
-
-**Tech Stack:**
+Platform for **product information extraction, analysis, enrichment, and intelligent product management**.
 
 `React` `Node.js` `Express.js` `MongoDB` `AI`
 
----
-
 ### 🍔 Zomato Clone
 
-A food discovery and restaurant interface project created to practice
-frontend development, responsive design, and modern UI development.
-
-**Tech Stack:**
+Responsive food discovery and restaurant interface built with React.
 
 `HTML` `CSS` `JavaScript` `React`
 
 ---
 
-## 🧠 DSA Journey
+## 🧠 DSA
 
-I'm consistently practicing Data Structures and Algorithms to improve my
-problem-solving and logical thinking skills.
+Currently practicing **Data Structures & Algorithms in Java** with a focus on problem-solving, patterns, and optimization.
 
-### 📚 Topics I'm Practicing
+`Arrays` `Strings` `Hashing` `Two Pointers` `Sliding Window` `Linked Lists` `Stack` `Queue`
 
-- Arrays
-- Strings
-- Hashing
-- Searching
-- Sorting
-- Two Pointers
-- Prefix & Suffix
-- Sliding Window
-- Linked Lists
-- Stack & Queue
-- Trees
-- Graphs
-- Dynamic Programming
+---
 
-### 🎯 My Learning Approach
+## 📫 Connect With Me
 
-```text
-Learn Concept
-     ↓
-Understand Pattern
-     ↓
-Try Problem Independently
-     ↓
-Debug & Analyze Mistakes
-     ↓
-Learn From the Solution
-     ↓
-Practice Again
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/harshada25more)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
