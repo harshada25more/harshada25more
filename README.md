@@ -57,14 +57,6 @@ A platform for **product information extraction, analysis, enrichment, and intel
 
 ---
 
-### 🍔 Zomato Clone
-
-Responsive food discovery and restaurant interface built with React.
-
-`HTML` `CSS` `JavaScript` `React`
-
----
-
 ## 🧠 DSA
 
 Currently practicing **Data Structures & Algorithms in Java**, focusing on problem-solving, patterns, and optimization.
