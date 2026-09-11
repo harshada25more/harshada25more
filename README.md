@@ -13,17 +13,23 @@ Passionate about **building practical applications, solving problems, and learni
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-`Java` `JavaScript` `Python` `C`
+### 💻 Languages
 
-**Frontend:**
-`HTML` `CSS` `React` `Tailwind CSS` `Bootstrap` `Axios`
+[![Languages](https://skillicons.dev/icons?i=java,js,python,c)](https://skillicons.dev)
 
-**Backend & Database:**
-`Node.js` `Express.js` `MongoDB` `MySQL` `SQLite`
+### 🌐 Frontend
 
-**Tools:**
-`Git` `GitHub` `VS Code` `Postman` `Docker`
+[![Frontend](https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap)](https://skillicons.dev)
+
+**API:** `Axios`
+
+### ⚙️ Backend & Database
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite)](https://skillicons.dev)
+
+### 🔧 Tools
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,docker)](https://skillicons.dev)
 
 ---
 
@@ -31,21 +37,25 @@ Passionate about **building practical applications, solving problems, and learni
 
 ### 🇮🇳 CivicSync India
 
-**AI-powered citizen–government infrastructure platform**
+**AI-Powered Citizen–Government Infrastructure Platform**
 
 A civic-tech platform for **citizen issue reporting, AI-based prioritization, geospatial mapping, and infrastructure monitoring**.
 
 `React` `JavaScript` `Tailwind CSS` `AI` `GIS`
 
-🔗 [Repository](https://github.com/harshada25more/CivicSync-India)
+🔗 [View Repository](https://github.com/harshada25more/CivicSync-India)
+
+---
 
 ### 📦 ProductIQ
 
 **AI-Powered Product Intelligence for Industrial Commerce**
 
-Platform for **product information extraction, analysis, enrichment, and intelligent product management**.
+A platform for **product information extraction, analysis, enrichment, and intelligent product management**.
 
 `React` `Node.js` `Express.js` `MongoDB` `AI`
+
+---
 
 ### 🍔 Zomato Clone
 
@@ -57,9 +67,17 @@ Responsive food discovery and restaurant interface built with React.
 
 ## 🧠 DSA
 
-Currently practicing **Data Structures & Algorithms in Java** with a focus on problem-solving, patterns, and optimization.
+Currently practicing **Data Structures & Algorithms in Java**, focusing on problem-solving, patterns, and optimization.
 
 `Arrays` `Strings` `Hashing` `Two Pointers` `Sliding Window` `Linked Lists` `Stack` `Queue`
+
+---
+
+## 🔓 Open Source
+
+**GSSoC 2026 — Open Source Contributor**
+
+Contributing to open-source projects while learning collaborative development and real-world coding practices.
 
 ---
 
@@ -68,3 +86,7 @@ Currently practicing **Data Structures & Algorithms in Java** with a focus on pr
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/harshada25more)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+
+---
+
+### 🚀 Build • Learn • Solve • Contribute
