@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harshada More
 
-### 💻 Computer Engineering Student | Full Stack Developer | Open Source Contributor
+### 💻 Computer Engineering Student | Full Stack Developer | Exploring AI-ML | Open Source Contributor
 
 Passionate about **building practical applications, solving problems, and learning modern technologies**.
 
