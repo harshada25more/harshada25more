@@ -55,13 +55,6 @@ A platform for **product information extraction, analysis, enrichment, and intel
 
 `React` `Node.js` `Express.js` `MongoDB` `AI`
 
----
-
-## 🧠 DSA
-
-Currently practicing **Data Structures & Algorithms in Java**, focusing on problem-solving, patterns, and optimization.
-
-`Arrays` `Strings` `Hashing` `Two Pointers` `Sliding Window` `Linked Lists` `Stack` `Queue`
 
 ---
 
